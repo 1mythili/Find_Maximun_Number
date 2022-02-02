@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Find-Maximun-Number/1.0.0": {
+        "runtime": {
+          "Find-Maximun-Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find-Maximun-Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

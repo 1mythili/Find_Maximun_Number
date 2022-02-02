@@ -1,0 +1,15 @@
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\bin\Debug\net6.0\Find-Maximun-Number.exe
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\bin\Debug\net6.0\Find-Maximun-Number.deps.json
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\bin\Debug\net6.0\Find-Maximun-Number.runtimeconfig.json
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\bin\Debug\net6.0\Find-Maximun-Number.dll
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\bin\Debug\net6.0\ref\Find-Maximun-Number.dll
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\bin\Debug\net6.0\Find-Maximun-Number.pdb
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\obj\Debug\net6.0\Find-Maximun-Number.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\obj\Debug\net6.0\Find-Maximun-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\obj\Debug\net6.0\Find-Maximun-Number.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\obj\Debug\net6.0\Find-Maximun-Number.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\obj\Debug\net6.0\Find-Maximun-Number.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\obj\Debug\net6.0\Find-Maximun-Number.dll
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\obj\Debug\net6.0\ref\Find-Maximun-Number.dll
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\obj\Debug\net6.0\Find-Maximun-Number.pdb
+C:\Users\ELCOT\source\repos\Find-Maximun-Number\Find-Maximun-Number\obj\Debug\net6.0\Find-Maximun-Number.genruntimeconfig.cache
